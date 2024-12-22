@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "domain": "Dependency Injection",
+      "questions": [
+        {
+          "question": "What is Dependency Injection?",
+          "answer": "Dependency Injection (DI) is a <b>design pattern</b> which allows us to handle dependencies in the application with separation of concerns.\nThe idea is to delegate creation of a dependency to the external source, instead of creating it ourselves.\nAngular has its own implementation of DI."
+        },
+        {
+          "question": "What are resolution modifiers?",
+          "answer": "\n\n```\nconstructor(){}\n```\ndsjkh fasjkklasj f   kla s d"
+        },
+        {
+          "question": "Explain how Dependency Injection works"
+        },
+        {
+          "question": "Why do we need Dependency Injection?"
+        },
+        {
+          "question": "What is provider in Dependency Injection?"
+        },
+        {
+          "question": "What is injector?"
+        },
+        {
+          "question": "What is injectable?"
+        },
+        {
+          "question": "How did Dependency Injection change after introducing standalone components?"
+        }
+      ]
+    }
+  ]
+}

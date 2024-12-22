@@ -1,0 +1,24 @@
+{
+  "name": "angular-interview-questions",
+  "version": "1.0.0",
+  "description": "wip",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asenataluczak/angular-interview-questions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asenataluczak/angular-interview-questions/issues"
+  },
+  "homepage": "https://github.com/asenataluczak/angular-interview-questions#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "prettier": "^3.4.2"
+  }
+}
